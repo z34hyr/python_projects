@@ -1,3 +1,4 @@
+![alt text](https://github.com/z34hyr/python_projects/blob/master/UI.png?raw=true)
 ==========================
 ==	Описание	==
 ==========================
