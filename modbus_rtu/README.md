@@ -13,8 +13,8 @@
 ## ==	Что потребуется	==
 Если пользуетесь на windows - ничего, просто распакуйте архив,
 exe внутри.  
-На Linux - потребуется python3, а также библиотека minimalmodbus  
-_pip install minimalmodbus_
+На Linux - потребуется python3, а также библиотека minimalmodbus и tkinter (она обычно идет в комплекте к питону)  
+_pip install minimalmodbus_  
 
 ## ==	Использование	==
 Для запуска на windows - запустить **modbusrtu.exe** строго из распакованной папки  
