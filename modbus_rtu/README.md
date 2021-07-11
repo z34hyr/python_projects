@@ -31,4 +31,4 @@ _pip install minimalmodbus_
 
 ## ==	Создано с	==
 python3  
-Компиляция в .exe выполнена с помощью pyinstaller
+Компиляция в .exe выполнена с помощью pyinstaller  
